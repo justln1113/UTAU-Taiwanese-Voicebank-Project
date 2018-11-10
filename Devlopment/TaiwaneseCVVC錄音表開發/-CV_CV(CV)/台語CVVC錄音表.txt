@@ -78,10 +78,6 @@
 -gge_gge
 -nge_nge
 -he_he
--e_ji
--e_qi
--e_xi
--e_jji
 -ze_ze
 -ce_ce
 -se_se
@@ -265,6 +261,7 @@
 -enn_enn
 
 -honn_honn
+-onn_onn
 
 -painn_painn
 -dainn_dainn
