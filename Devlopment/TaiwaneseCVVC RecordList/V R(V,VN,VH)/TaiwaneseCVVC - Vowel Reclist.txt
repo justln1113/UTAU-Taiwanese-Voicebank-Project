@@ -79,6 +79,3 @@ ib_R
 id_R
 ig_R
 ud_R
-
-
-1
