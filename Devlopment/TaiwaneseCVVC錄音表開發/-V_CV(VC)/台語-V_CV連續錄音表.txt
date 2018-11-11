@@ -84,10 +84,7 @@
 -am_mo
 -am_bbo
 -am_no
--am_ngo
--am_zzu
--am_hn
--am_ngi
+-am_ngo_am_zzu_am_hn_am_ngi
 -am_a
 -am_oo
 -am_o
