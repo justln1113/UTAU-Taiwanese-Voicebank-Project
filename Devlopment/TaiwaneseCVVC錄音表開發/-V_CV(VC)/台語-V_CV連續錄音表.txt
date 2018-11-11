@@ -80,11 +80,8 @@
 -ng_ai_ng_au_ng_an_ng_ang
 -ng_i_ng_u_ng_ing_am_bo
 
+-am_ngo_am_zzu_am_hn_am_ngi
 -am_po_am_mo_am_bbo_am_no
--am_ngo
--am_zzu
--am_hn
--am_ngi
 -am_a
 -am_oo
 -am_o
