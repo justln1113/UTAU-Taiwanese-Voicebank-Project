@@ -440,10 +440,9 @@
 -ng_ai_ng_au_ng_an_ng_ang.wav=ng an
 -ng_ai_ng_au_ng_an_ng_ang.wav=ng ang
 
--ng_i_ng_u_ng_ing_am_bo.wav=ng i
-//-ng_i_ng_u_ng_ing_am_bo.wav=ng i
--ng_i_ng_u_ng_ing_am_bo.wav=ng u
-//-ng_i_ng_u_ng_ing_am_bo.wav=u ng
--ng_i_ng_u_ng_ing_am_bo.wav=ng ing
--ng_i_ng_u_ng_ing_am_bo.wav=am b
-
+-ng_i_ng_u_ng_ing_ong_zzu.wav=ng i
+-ng_i_ng_u_ng_ing_ong_zzu.wav=ng i
+-ng_i_ng_u_ng_ing_ong_zzu.wav=ng u
+-ng_i_ng_u_ng_ing_ong_zzu.wav=u ng
+-ng_i_ng_u_ng_ing_ong_zzu.wav=ng ing
+-ng_i_ng_u_ng_ing_ong_zzu.wav=ong zz

@@ -53,6 +53,19 @@ gian
 kian
 ggian
 
+im
+dim
+tim
+lim
+gim
+kim
+ggim
+him
+jim
+qim
+xim
+jim
+
 iang
 biang
 piang
@@ -90,6 +103,19 @@ kiunn
 
 iaunn
 
+am
+dam
+tam
+lam
+gam
+kam
+ggam
+ham
+
+zam
+cam
+sam
+
 iam
 diam
 tiam
@@ -97,6 +123,11 @@ liam
 giam
 kiam
 ggiam
+jiam
+qiam
+xiam
+jjiam
+hiam
 
 iong
 diong
