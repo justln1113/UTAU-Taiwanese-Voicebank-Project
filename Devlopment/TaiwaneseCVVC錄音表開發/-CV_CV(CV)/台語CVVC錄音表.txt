@@ -278,25 +278,6 @@
 
 -ng_ng
 
--dam_dam
--tam_tam
--lam_lam
--gam_gam
--kam_kam
--ggam_ggam
--ham_ham
--jiam_jiam
--qiam_qiam
--xiam_xiam
--jjiam_jjiam
--zam_zam
--cam_cam
--sam_sam
--hiam_hiam
--am_am
-
--om_om
-
 -bong_bong
 -pong_pong
 -mong_mong
@@ -360,19 +341,6 @@
 -xin_xin
 -jjin_jjin
 -in_in
-
--dim_dim
--tim_tim
--lim_lim
--gim_gim
--kim_kim
--ggim_ggim
--him_ho
--jim_jim
--qim_qim
--xim_xim
--jim_jjim
--im_im
 
 -bing_bing
 -ping_ping
