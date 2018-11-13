@@ -279,5 +279,6 @@ huad
 zuad
 suad
 
-
-
+om
+som
+dom
