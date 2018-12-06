@@ -44,8 +44,9 @@ OTO模板不需設定介音，但發布時記得放對應表!!
 -pa_pa.wav=a p,2,2,2,2,2
 -pa_pa.wav=pa,3,3,3,3,3
 -ma_ma.wav=- ma,1,1,1,1,1
--ma_ma.wav=a m,2,2,2,2,2
+-ma_ma.wav=ann m,2,2,2,2,2
 -ma_ma.wav=ma,3,3,3,3,3
+-a_ma.wav=a ma,2,2,2,2,2
 -bba_bba.wav=- bba,1,1,1,1,1
 -bba_bba.wav=a bb,2,2,2,2,2
 -bba_bba.wav=bba,3,3,3,3,3
