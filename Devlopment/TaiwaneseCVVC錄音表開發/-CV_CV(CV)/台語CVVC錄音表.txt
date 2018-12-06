@@ -336,6 +336,7 @@
 -kin_kin
 -ggin_ggin
 -ngin_ngin
+-hin_hin
 -jin_jin
 -qin_qin
 -xin_xin

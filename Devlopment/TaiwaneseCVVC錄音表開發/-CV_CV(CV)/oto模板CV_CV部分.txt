@@ -33,7 +33,7 @@ OTO模板不需設定介音，但發布時記得放對應表!!
 重點：h和hi是不同的子音，ng、ngi亦然
 開頭音oto設定編號=1
 連接音oto設定編號=2
-普通音oto設定編號=3
+中間音oto設定編號=3
 結尾音oto設定編號=4
 尾息音oto設定編號=5
 
@@ -1011,6 +1011,9 @@ OTO模板不需設定介音，但發布時記得放對應表!!
 -ngin_ngin.wav=- ngin,1,1,1,1,1
 -ngin_ngin.wav=in ng,2,2,2,2,2
 -ngin_ngin.wav=ngin,3,3,3,3,3
+-hin_hin.wav=- hin,1,1,1,1,1
+-hin_hin.wav=in h,2,2,2,2,2
+-hin_hin.wav=hin,3,3,3,3,3
 -jin_jin.wav=- jin,1,1,1,1,1
 -jin_jin.wav=in ji,2,2,2,2,2
 -jin_jin.wav=jin,3,3,3,3,3
