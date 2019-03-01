@@ -84,7 +84,7 @@
 -en_zzu_en_hn_en_ngi_en_a
 -en_oo_en_o_en_e_en_ai
 -en_au_en_an_en_ang_en_i
--en_u_en_ing_in_ho-in_zo
+-en_u_en_ing_in_ho_in_zo
 -in_co_in_so_in_zzu_in_hn
 -in_ngi_in_a_in_oo_in_o
 -in_e_in_ai_in_au_in_an

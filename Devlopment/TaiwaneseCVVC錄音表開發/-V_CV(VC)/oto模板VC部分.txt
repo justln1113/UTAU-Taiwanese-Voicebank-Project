@@ -477,10 +477,10 @@
 -en_au_en_an_en_ang_en_i.wav=en ang,2,2,2,2,2
 -en_au_en_an_en_ang_en_i.wav=en i,2,2,2,2,2
 
--en_u_en_ing_in_ho-in_zo.wav=en u,2,2,2,2,2
--en_u_en_ing_in_ho-in_zo.wav=en ing,2,2,2,2,2
--en_u_en_ing_in_ho-in_zo.wav=in h,2,2,2,2,2
--en_u_en_ing_in_ho-in_zo.wav=in z,2,2,2,2,2
+-en_u_en_ing_in_ho_in_zo.wav=en u,2,2,2,2,2
+-en_u_en_ing_in_ho_in_zo.wav=en ing,2,2,2,2,2
+-en_u_en_ing_in_ho_in_zo.wav=in h,2,2,2,2,2
+-en_u_en_ing_in_ho_in_zo.wav=in z,2,2,2,2,2
 
 -in_co_in_so_in_zzu_in_hn.wav=in c,2,2,2,2,2
 -in_co_in_so_in_zzu_in_hn.wav=in s,2,2,2,2,2
