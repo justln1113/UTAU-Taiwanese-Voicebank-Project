@@ -69,7 +69,7 @@ OTO模板不需設定介音，但發布時記得放對應表!!
 -ka_ka.wav=a k,2,2,2,2,2
 -ka_ka.wav=ka,3,3,3,3,3
 -gga_gga.wav=- gga,1,1,1,1,1
--gga_gga.wav=ua gg,2,2,2,2,2
+-gga_gga.wav=a gg,2,2,2,2,2
 -gga_gga.wav=gga,3,3,3,3,3
 -nga_nga.wav=- nga,1,1,1,1,1
 -nga_nga.wav=a ng,2,2,2,2,2
