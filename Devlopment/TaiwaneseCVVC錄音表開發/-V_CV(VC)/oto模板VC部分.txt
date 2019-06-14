@@ -240,7 +240,6 @@
 -unn_onn_unn_ainn_unn_aunn_enn_mo.wav=aunn enn,2,2,2,2,2
 -unn_onn_unn_ainn_unn_aunn_enn_mo.wav=enn m,2,2,2,2,2
 
--enn_mo_enn_bbo_enn_no_enn_lo.wav=enn m,2,2,2,2,2
 -enn_mo_enn_bbo_enn_no_enn_lo.wav=enn bb,2,2,2,2,2
 -enn_mo_enn_bbo_enn_no_enn_lo.wav=enn n,2,2,2,2,2
 -enn_mo_enn_bbo_enn_no_enn_lo.wav=enn l,2,2,2,2,2
