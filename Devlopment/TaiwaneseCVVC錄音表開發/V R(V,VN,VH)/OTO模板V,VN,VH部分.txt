@@ -73,12 +73,3 @@ ip_R.wav=ip R,4,4,4,4,4
 it_R.wav=it R,4,4,4,4,4
 ik_R.wav=ik R,4,4,4,4,4
 ut_R.wav=ut R,4,4,4,4,4
-
-ap_R.wav=ab R,4,4,4,4,4
-at_R.wav=ad R,4,4,4,4,4
-ak_R.wav=ag R,4,4,4,4,4
-ok_R.wav=og R,4,4,4,4,4
-ip_R.wav=ib R,4,4,4,4,4
-it_R.wav=id R,4,4,4,4,4
-ik_R.wav=ig R,4,4,4,4,4
-ut_R.wav=ud R,4,4,4,4,4
