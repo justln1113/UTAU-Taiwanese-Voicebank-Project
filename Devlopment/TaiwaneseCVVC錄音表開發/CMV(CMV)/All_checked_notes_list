@@ -1,4 +1,4 @@
-"ah" {
+"ah"(a) {
   ah
   bah
   pah
@@ -13,7 +13,7 @@
   sah
   hah
 }
-"ak" {
+"ak"(ang) {
   ak
   bak
   pak
@@ -29,11 +29,11 @@
   sak
   hak
 }
-"annh" {
+"annh"(ann) {
   sannh
   hannh
 }
-"ap" {
+"ap"(am) {
   ap
   dap
   tap
@@ -46,7 +46,7 @@
   sap
   hap
 }
-"at" {
+"at"(an) {
   bat
   bbat
   dat
@@ -60,7 +60,7 @@
   hat
   at
 }
-"auh" {
+"auh"(au) {
   bauh
   pauh
   mauh
@@ -71,7 +71,7 @@
   gauh
   ngauh
 }
-"eh" {
+"eh"(e) {
   eh
   beh
   meh
@@ -88,4 +88,161 @@
   ceh
   seh
   heh
+}
+"ennh"(enn) {
+  kennh
+}
+"iah"(ia) {
+  iah
+  biah
+  piah
+  diah
+  tiah
+  liah
+  giah
+  kiah
+  ggiah
+  jiah
+  giah
+  xiah
+  jjiah
+  hiah
+}
+"iak"(iang) {
+  biak
+  piak
+  diak
+  giak
+  kiak
+  qiak
+  xiak
+}
+"iap"(iam) {
+  iap
+  diap
+  tiap
+  liap
+  giap
+  kiap
+  ggiap
+  jiap
+  qiap
+  xiap
+  hiap
+}
+"iat"(ian) {
+  iat
+  biat
+  piat
+  bbiat
+  diat
+  tiat
+  liat
+  giat
+  kiat
+  ggiat
+  jiat
+  qiat
+  xiat
+  jjiat
+  hiat
+}
+"iauh"(iau) {
+  niauh
+  giauh
+  kiauh
+  ggiauh
+  ngiauh
+  hiauh
+}
+"ih"(i) {
+  bih
+  pih
+  mih
+  bbih
+  dih
+  tih
+  nih
+  lih
+  kih
+  jih
+  qih
+  xih
+}
+"ik"(ing) {
+  ik
+  bik
+  pik
+  bbik
+  dik
+  tik
+  lik
+  gik
+  kik
+  ggik
+  jik
+  qik
+  xik
+  hik
+}
+"innh"(inn) {
+  dinnh
+}
+"ioh"(io) {
+  ioh
+  dioh
+  lioh
+  gioh
+  kioh
+  jioh
+  qioh
+  xioh
+  hioh
+}
+"iok"(iong) {
+  iok
+  diok
+  tiok
+  liok
+  giok
+  kiok
+  ggiok
+  jiok
+  qiok
+  xiok
+  jjiok
+  hiok
+}
+"ip"(im) {
+  ip
+  lip
+  gip
+  kip
+  jip
+  qip
+  xip
+  jjip
+  hip
+}
+"it"(in) {
+  it
+  bit
+  pit
+  bbit
+  dit
+  tit
+  git
+  kit
+  jit
+  qit
+  xit
+  jjit
+  hit
+}
+"iuh"(iu) {
+  diuh
+  giuh
+}
+"mh"(m) {
+  hmh
 }
